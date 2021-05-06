@@ -1,4 +1,8 @@
 
-require('./main.css')
-const test= require ('./index.js'); 
-test ();
+import Vue from 'vue'
+import App from './App.vue'
+
+new Vue({
+  el: '#app',
+  render: h => h(App)
+});

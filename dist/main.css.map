@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpacktest/./main.css","webpack://webpacktest/./main2.scss"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,eAAe;AACjB,C;ACHA;EACE,gBAAe","file":"main.css","sourcesContent":["#app{\n  text-align: center;\n  background:teal;\n}","#app{\n  background:aqua;\n}"],"sourceRoot":""}
